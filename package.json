@@ -32,7 +32,7 @@
     "rimraf": "^2.4.3",
     "rsvp": "^3.5.0",
     "sane": "^1.4.1",
-    "tmp": "0.0.31",
+    "tmp": "0.2.6",
     "underscore.string": "^3.2.2"
   },
   "devDependencies": {
